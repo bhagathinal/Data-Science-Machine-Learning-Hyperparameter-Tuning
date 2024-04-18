@@ -8,11 +8,17 @@ This repository contains an analysis of the MNIST dataset and the development of
 **Project Structure**
 
 **HPO.ipynb**: Jupyter Notebook containing hyperparameter optimization for the CNN model using Optuna. 
+
 **mnist_model.h5**: Pre-trained CNN model file. 
+
 **mnist_streamlit.py**: Streamlit deployment file for web-based inference. 
+
 **mnist_streamlit_predict.py**: Streamlit deployment file for making predictions. 
-**sample_image.webp**: Sample image for testing the deployed model. 
+
+**testSample**: Sample images for testing the deployed model. 
+
 **README.md**: Readme file providing an overview of the project, its objectives, and instructions for running the code. 
+
 **requirments.txt**: File containing the required libraries for running the code. 
 
 
