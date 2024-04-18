@@ -1,5 +1,5 @@
 ﻿# Data-Science-Machine-Learning-Hyperparameter-Tuning
- Introduction
+Introduction
 This repository contains an analysis of the MNIST dataset and the development of various machine learning models for digit recognition tasks. The MNIST dataset is a widely used benchmark dataset in the machine learning community, consisting of grayscale images of handwritten digits (0 to 9) and corresponding labels. The goal of this project is to explore the dataset, preprocess the data, build classification models to predict the digit labels, and deploy the best-performing model using Streamlit for web-based inference.
 
 
